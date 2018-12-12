@@ -6,6 +6,35 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>1BDDDFD1-24C8-4A7C-AA20-CB32CDCF5104</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1BDDDFD1-24C8-4A7C-AA20-CB32CDCF5104.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseSample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseSample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FirebaseSample</string>
+			<key>timeStartedRecording</key>
+			<real>566299506.639382</real>
+			<key>timeStoppedRecording</key>
+			<real>566299810.36897695</real>
+			<key>title</key>
+			<string>Debug FirebaseSample</string>
+			<key>uniqueIdentifier</key>
+			<string>1BDDDFD1-24C8-4A7C-AA20-CB32CDCF5104</string>
+		</dict>
 		<key>21CAF75C-42AD-4014-A28B-D5656B80BCE4</key>
 		<dict>
 			<key>className</key>
@@ -34,6 +63,93 @@
 			<string>Debug FirebaseSample</string>
 			<key>uniqueIdentifier</key>
 			<string>21CAF75C-42AD-4014-A28B-D5656B80BCE4</string>
+		</dict>
+		<key>46C784A8-0C64-458B-A137-EFCB6B24DEC1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>46C784A8-0C64-458B-A137-EFCB6B24DEC1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseSample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseSample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FirebaseSample</string>
+			<key>timeStartedRecording</key>
+			<real>566300005.86262703</real>
+			<key>timeStoppedRecording</key>
+			<real>566300042.59404397</real>
+			<key>title</key>
+			<string>Debug FirebaseSample</string>
+			<key>uniqueIdentifier</key>
+			<string>46C784A8-0C64-458B-A137-EFCB6B24DEC1</string>
+		</dict>
+		<key>64F3455B-7CB9-4C68-9FED-41FE11235A4F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>64F3455B-7CB9-4C68-9FED-41FE11235A4F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseSample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseSample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FirebaseSample</string>
+			<key>timeStartedRecording</key>
+			<real>566299362.96501601</real>
+			<key>timeStoppedRecording</key>
+			<real>566299506.51989603</real>
+			<key>title</key>
+			<string>Debug FirebaseSample</string>
+			<key>uniqueIdentifier</key>
+			<string>64F3455B-7CB9-4C68-9FED-41FE11235A4F</string>
+		</dict>
+		<key>6DBA9B67-8F77-46CE-9970-809325196C87</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6DBA9B67-8F77-46CE-9970-809325196C87.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseSample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseSample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FirebaseSample</string>
+			<key>timeStartedRecording</key>
+			<real>566299843.72813904</real>
+			<key>timeStoppedRecording</key>
+			<real>566299939.75056505</real>
+			<key>title</key>
+			<string>Debug FirebaseSample</string>
+			<key>uniqueIdentifier</key>
+			<string>6DBA9B67-8F77-46CE-9970-809325196C87</string>
 		</dict>
 		<key>A7FDBA56-490F-40A4-817D-7BA679845C97</key>
 		<dict>
@@ -64,6 +180,35 @@
 			<key>uniqueIdentifier</key>
 			<string>A7FDBA56-490F-40A4-817D-7BA679845C97</string>
 		</dict>
+		<key>B455B0EE-83B6-4EB7-B29B-50E0E3276FEC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B455B0EE-83B6-4EB7-B29B-50E0E3276FEC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseSample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseSample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FirebaseSample</string>
+			<key>timeStartedRecording</key>
+			<real>566300046.26016295</real>
+			<key>timeStoppedRecording</key>
+			<real>566300094.33273494</real>
+			<key>title</key>
+			<string>Debug FirebaseSample</string>
+			<key>uniqueIdentifier</key>
+			<string>B455B0EE-83B6-4EB7-B29B-50E0E3276FEC</string>
+		</dict>
 		<key>BDF4F476-D249-4400-8CF6-86AB01A42E9A</key>
 		<dict>
 			<key>className</key>
@@ -93,6 +238,35 @@
 			<key>uniqueIdentifier</key>
 			<string>BDF4F476-D249-4400-8CF6-86AB01A42E9A</string>
 		</dict>
+		<key>C8360C25-63C6-4E18-90EF-257489B82419</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C8360C25-63C6-4E18-90EF-257489B82419.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseSample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseSample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FirebaseSample</string>
+			<key>timeStartedRecording</key>
+			<real>566299247.30877495</real>
+			<key>timeStoppedRecording</key>
+			<real>566299345.47797406</real>
+			<key>title</key>
+			<string>Debug FirebaseSample</string>
+			<key>uniqueIdentifier</key>
+			<string>C8360C25-63C6-4E18-90EF-257489B82419</string>
+		</dict>
 		<key>C9308B36-1A84-4C76-9586-089F73583860</key>
 		<dict>
 			<key>className</key>
@@ -121,6 +295,35 @@
 			<string>Debug FirebaseSample</string>
 			<key>uniqueIdentifier</key>
 			<string>C9308B36-1A84-4C76-9586-089F73583860</string>
+		</dict>
+		<key>E06B9F4D-EBA0-4A4C-8FB2-0664E29A6318</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E06B9F4D-EBA0-4A4C-8FB2-0664E29A6318.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseSample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseSample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FirebaseSample</string>
+			<key>timeStartedRecording</key>
+			<real>566299944.66977704</real>
+			<key>timeStoppedRecording</key>
+			<real>566300002.25864506</real>
+			<key>title</key>
+			<string>Debug FirebaseSample</string>
+			<key>uniqueIdentifier</key>
+			<string>E06B9F4D-EBA0-4A4C-8FB2-0664E29A6318</string>
 		</dict>
 	</dict>
 </dict>
