@@ -35,6 +35,10 @@ class ViewController: UIViewController {
         defaultPlace.observe(.value){ (snap: DataSnapshot) in self.displayData.text = (snap.value! as AnyObject).description}
     }
     
+    @IBAction func remove(_ sender: AnyObject){
+        DBRef.child("user/01/name").removeValue()
+    }
+    
     
 
 

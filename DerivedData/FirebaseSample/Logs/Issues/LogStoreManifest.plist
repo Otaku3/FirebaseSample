@@ -75,7 +75,7 @@
 			<key>uniqueIdentifier</key>
 			<string>4EE93364-623A-4023-8D4D-8FA9A590AE88</string>
 		</dict>
-		<key>5C718A82-A399-4017-AD04-39B22E4FBA65</key>
+		<key>63C9C538-C5AB-46F6-9D6D-77976AE7AB4A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -84,19 +84,19 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>5C718A82-A399-4017-AD04-39B22E4FBA65.xcactivitylog</string>
+			<string>63C9C538-C5AB-46F6-9D6D-77976AE7AB4A.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>signature</key>
 			<string>FirebaseSample-doolouxcxasgquerxzhqjfrcvqjq</string>
 			<key>timeStartedRecording</key>
-			<real>566298250.43797696</real>
+			<real>566299241.59580696</real>
 			<key>timeStoppedRecording</key>
-			<real>566298255.44983602</real>
+			<real>566299247.283427</real>
 			<key>title</key>
 			<string>Build target FirebaseSample</string>
 			<key>uniqueIdentifier</key>
-			<string>5C718A82-A399-4017-AD04-39B22E4FBA65</string>
+			<string>63C9C538-C5AB-46F6-9D6D-77976AE7AB4A</string>
 		</dict>
 		<key>7D9F4CB6-31E3-4606-B350-C07F84B9CFC5</key>
 		<dict>
