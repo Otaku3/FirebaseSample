@@ -5,6 +5,65 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>21CAF75C-42AD-4014-A28B-D5656B80BCE4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>21CAF75C-42AD-4014-A28B-D5656B80BCE4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseSample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseSample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FirebaseSample</string>
+			<key>timeStartedRecording</key>
+			<real>566298106.25825906</real>
+			<key>timeStoppedRecording</key>
+			<real>566298250.25131798</real>
+			<key>title</key>
+			<string>Debug FirebaseSample</string>
+			<key>uniqueIdentifier</key>
+			<string>21CAF75C-42AD-4014-A28B-D5656B80BCE4</string>
+		</dict>
+		<key>C9308B36-1A84-4C76-9586-089F73583860</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C9308B36-1A84-4C76-9586-089F73583860.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseSample project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseSample</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug FirebaseSample</string>
+			<key>timeStartedRecording</key>
+			<real>566296927.74535096</real>
+			<key>timeStoppedRecording</key>
+			<real>566297014.37997603</real>
+			<key>title</key>
+			<string>Debug FirebaseSample</string>
+			<key>uniqueIdentifier</key>
+			<string>C9308B36-1A84-4C76-9586-089F73583860</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
